@@ -7,13 +7,13 @@ I'm planning to create a coding learning resources website.<br>
 My basic aims for this project:<br>
 <ol>
     <li>
-        1. Make a sign up page.
+        Make a sign up page.
     </li>
     <li>
-        2. Make the home page for learning resources site.
+        Make the home page for learning resources site.
     </li>
     <li>
-        3. For the actual resources, make a pade with links to YouTube videos.
+        For the actual resources, make a pade with links to YouTube videos.
         <ul>
             <li>
                 Side note for myself, a lot of ateention should be put in the presentation.
@@ -21,7 +21,7 @@ My basic aims for this project:<br>
         </ul>
     </li>
     <li>
-        4. On the home page, make a table to show the various topics covered.
+        On the home page, make a table to show the various topics covered.
     </li>
 </ol>
 For now, this is it.<br>
