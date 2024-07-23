@@ -1,12 +1,13 @@
 # Changelogs
-<br><br>
+<br>
 
 ### v0.1
 
-<br><br>
+<br>
 
 <ol>
     <li>
         Created README.md
+        Created index.html
     </li>
 </ol>
