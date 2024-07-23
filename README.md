@@ -26,5 +26,5 @@ My basic aims for this project:<br>
 </ol>
 For now, this is it.<br>
 If any change of plans are made for this project, they will be added to this README file.
-
+<br><br>
 See ya.
