@@ -42,3 +42,50 @@
         </ul>
     </li>
 </ol>
+
+<br>
+
+### v0.3
+
+<ol>
+    <li>
+        Completed Sign In page @ singin.html
+        <ul>
+            Learnt how to use `&nbsp`.<br>
+            Used the following input types in the form:
+            <ol>
+                <li>
+                    text
+                </li>
+                <li>
+                    email
+                </li>
+                <li>
+                    tel
+                </li>
+                <li>
+                    textarea
+                </li>
+            </ol>
+            Learnt a lot aboout making footers too
+        </ul>
+    </li>
+    <li>
+        I took it upon me as a challenge to do this without CSS. 100% HTML. I definitly don't like it.
+    </li>
+    <li>
+        Changes in index.html: I was planning to make a proper website with actual videos, but resorted to repeating them.
+    </li>
+    <li>
+        Figuring out how to make the table was hell.
+    </li>
+    <li>
+        I understand now that div can't be centered no matter what.
+    </li>
+    <li>
+        I should be done with this project soon. I must.
+    </li>
+    <li>
+        I did add a lot of decor.
+    </li>
+</ol>
