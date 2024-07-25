@@ -21,10 +21,25 @@ My basic aims for this project:<br>
         </ul>
     </li>
     <li>
-        On the home page, make a table to show the various topics covered.
+        <s>On the home page, make a table to show the various topics covered.</s>
     </li>
 </ol>
 For now, this is it.<br>
 If any change of plans are made for this project, they will be added to this README file.
 <br><br>
 See ya.
+
+Welcome Back!
+
+I have decided to end this project.<br>
+I think I have more or less achived what I wanted to do.<br>
+I shall move onto CSS now.
+The more of these projects I do the more I become less of a perfectionst (That's a good thing).<br>
+I don't really have anything more to say here.<br>
+I did learn a few things that I have learnt and I have mentioned it in CHANGELONG.md.<br>
+This is it.<br>
+This is the end of the project.<br>
+I shall see you guys in a new project.<br>
+One with CSS.<br>
+
+Goodbye.
